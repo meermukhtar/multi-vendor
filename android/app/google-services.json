@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14007832868",
+    "project_id": "login-form-97707",
+    "storage_bucket": "login-form-97707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14007832868:android:c7e6d5524febce24eb23b1",
+        "android_client_info": {
+          "package_name": "com.example.multivendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATz2pO20nkMCIjQkzU5d2Vn6OOCNR9pqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
